@@ -21,19 +21,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
