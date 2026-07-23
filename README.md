@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0347-top-k-frequent-elements) |
@@ -130,5 +131,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
