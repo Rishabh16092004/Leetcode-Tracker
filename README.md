@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0347-top-k-frequent-elements) |
+| [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3386-button-with-longest-push-time](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3386-button-with-longest-push-time) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3522-calculate-score-after-performing-instructions) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
 | [1103-distribute-candies-to-people](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1103-distribute-candies-to-people) |
 ## Bit Manipulation
 |  |
@@ -139,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
