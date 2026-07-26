@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0637-average-of-levels-in-binary-tree) |
