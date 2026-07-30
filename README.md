@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3522-calculate-score-after-performing-instructions) |
 ## Simulation
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
 | [1103-distribute-candies-to-people](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1103-distribute-candies-to-people) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
