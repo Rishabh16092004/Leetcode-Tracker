@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3386-button-with-longest-push-time](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3386-button-with-longest-push-time) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3731-find-missing-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
 | [1103-distribute-candies-to-people](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1103-distribute-candies-to-people) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3536-maximum-product-of-two-digits) |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3345-smallest-divisible-digit-product-i) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
