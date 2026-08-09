@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3238-find-the-number-of-winning-players](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3238-find-the-number-of-winning-players) |
 | [3386-button-with-longest-push-time](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3386-button-with-longest-push-time) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3731-find-missing-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3731-find-missing-elements) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
+| [3238-find-the-number-of-winning-players](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3238-find-the-number-of-winning-players) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3731-find-missing-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0451-sort-characters-by-frequency) |
+| [3238-find-the-number-of-winning-players](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3238-find-the-number-of-winning-players) |
 ## Stack
 |  |
 | ------- |
