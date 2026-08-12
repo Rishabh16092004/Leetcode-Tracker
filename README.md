@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0215-kth-largest-element-in-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0451-sort-characters-by-frequency) |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0503-next-greater-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
