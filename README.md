@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0187-repeated-dna-sequences) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0187-repeated-dna-sequences) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Rolling Hash
