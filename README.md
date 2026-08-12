@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0904-fruit-into-baskets) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0904-fruit-into-baskets](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Rolling Hash
