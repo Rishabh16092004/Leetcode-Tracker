@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0904-fruit-into-baskets) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2401-longest-nice-subarray](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2401-longest-nice-subarray) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3536-maximum-product-of-two-digits) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Counting Sort
 |  |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Database
 |  |
 | ------- |
