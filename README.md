@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1419-minimum-number-of-frogs-croaking](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0451-sort-characters-by-frequency) |
+| [1419-minimum-number-of-frogs-croaking](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [3238-find-the-number-of-winning-players](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3238-find-the-number-of-winning-players) |
 ## Stack
 |  |
