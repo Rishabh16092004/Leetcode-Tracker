@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0904-fruit-into-baskets) |
 | [1002-find-common-characters](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1002-find-common-characters) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0692-top-k-frequent-words](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0904-fruit-into-baskets) |
 | [1002-find-common-characters](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1002-find-common-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0692-top-k-frequent-words](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0692-top-k-frequent-words) |
 | [1002-find-common-characters](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1419-minimum-number-of-frogs-croaking) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
@@ -168,12 +173,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0692-top-k-frequent-words) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [3238-find-the-number-of-winning-players](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3238-find-the-number-of-winning-players) |
 ## Stack
@@ -276,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0176-second-highest-salary) |
 | [0595-big-countries](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0595-big-countries) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
