@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
 | [1103-distribute-candies-to-people](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1103-distribute-candies-to-people) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2843-count-symmetric-integers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2843-count-symmetric-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2843-count-symmetric-integers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
 |  |
