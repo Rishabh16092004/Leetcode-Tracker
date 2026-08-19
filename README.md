@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
