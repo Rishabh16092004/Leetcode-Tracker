@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0692-top-k-frequent-words) |
+| [0826-most-profit-assigning-work](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0826-most-profit-assigning-work) |
 | [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0904-fruit-into-baskets) |
 | [0932-beautiful-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0932-beautiful-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0826-most-profit-assigning-work](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0826-most-profit-assigning-work) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Divide and Conquer
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0692-top-k-frequent-words) |
+| [0826-most-profit-assigning-work](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0826-most-profit-assigning-work) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0605-can-place-flowers) |
+| [0826-most-profit-assigning-work](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0826-most-profit-assigning-work) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1717-maximum-score-from-removing-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0826-most-profit-assigning-work](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0826-most-profit-assigning-work) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Database
 |  |
