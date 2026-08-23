@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1927-sum-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1927-sum-game) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0932-beautiful-array) |
 | [1103-distribute-candies-to-people](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1103-distribute-candies-to-people) |
+| [1927-sum-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1927-sum-game) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2843-count-symmetric-integers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2843-count-symmetric-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1927-sum-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0826-most-profit-assigning-work) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1927-sum-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1927-sum-game) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
