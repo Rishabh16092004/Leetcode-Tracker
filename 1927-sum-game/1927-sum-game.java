@@ -12,7 +12,6 @@ class Solution {
                 sum1 += num.charAt(i)-'0';
             }
         }
-
         for(int i=num.length()/2;i<num.length();i++){
             if(num.charAt(i)=='?'){
                 q2++;
@@ -23,7 +22,7 @@ class Solution {
         }
 
         if((q1+q2)%2!=0)return true;
-        
-        return (9*(q2-q1) / 2)!= sum1-sum2;
+
+        return sum1-sum2 != (9*(q2-q1)/2);
     }
 }
