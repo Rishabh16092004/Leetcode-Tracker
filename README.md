@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1872-stone-game-viii](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1872-stone-game-viii) |
 | [2401-longest-nice-subarray](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2401-longest-nice-subarray) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0932-beautiful-array) |
 | [1103-distribute-candies-to-people](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1103-distribute-candies-to-people) |
+| [1872-stone-game-viii](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1927-sum-game) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2843-count-symmetric-integers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2843-count-symmetric-integers) |
@@ -271,16 +273,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1387-sort-integers-by-the-power-value) |
+| [1872-stone-game-viii](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1872-stone-game-viii) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1927-sum-game) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1872-stone-game-viii](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1872-stone-game-viii) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
@@ -347,4 +352,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-sort-integers-by-the-power-value](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1387-sort-integers-by-the-power-value) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
