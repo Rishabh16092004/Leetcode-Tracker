@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0318-maximum-product-of-word-lengths) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0826-most-profit-assigning-work](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0826-most-profit-assigning-work) |
