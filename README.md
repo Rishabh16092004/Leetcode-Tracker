@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1927-sum-game) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2645-minimum-additions-to-make-valid-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0904-fruit-into-baskets) |
 | [2401-longest-nice-subarray](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2401-longest-nice-subarray) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
