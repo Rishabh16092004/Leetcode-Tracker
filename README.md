@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1872-stone-game-viii](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1872-stone-game-viii) |
 | [2401-longest-nice-subarray](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2401-longest-nice-subarray) |
+| [2404-most-frequent-even-element](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2404-most-frequent-even-element) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1002-find-common-characters) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [2404-most-frequent-even-element](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2404-most-frequent-even-element) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [2404-most-frequent-even-element](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2404-most-frequent-even-element) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3238-find-the-number-of-winning-players](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3238-find-the-number-of-winning-players) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3737-count-subarrays-with-majority-element-i) |
