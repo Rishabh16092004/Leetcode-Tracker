@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1872-stone-game-viii) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3904-smallest-stable-index-ii) |
 ## Counting Sort
 |  |
 | ------- |
