@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1872-stone-game-viii](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1872-stone-game-viii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2104-sum-of-subarray-ranges) |
 | [2401-longest-nice-subarray](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2401-longest-nice-subarray) |
 | [2404-most-frequent-even-element](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2404-most-frequent-even-element) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1717-maximum-score-from-removing-substrings) |
+| [2104-sum-of-subarray-ranges](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2104-sum-of-subarray-ranges) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Math
 |  |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0503-next-greater-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2104-sum-of-subarray-ranges) |
 ## Quicksort
 |  |
 | ------- |
