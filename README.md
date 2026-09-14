@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0932-beautiful-array) |
 | [1103-distribute-candies-to-people](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1103-distribute-candies-to-people) |
@@ -417,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0459-repeated-substring-pattern) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
