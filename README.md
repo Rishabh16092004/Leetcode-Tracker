@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2404-most-frequent-even-element](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2404-most-frequent-even-element) |
+| [2405-optimal-partition-of-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2405-optimal-partition-of-string) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1927-sum-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1927-sum-game) |
+| [2405-optimal-partition-of-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2405-optimal-partition-of-string) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1927-sum-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2405-optimal-partition-of-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2405-optimal-partition-of-string) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
