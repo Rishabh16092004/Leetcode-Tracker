@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1387-sort-integers-by-the-power-value) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0509-fibonacci-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1387-sort-integers-by-the-power-value) |
 ## Minimax
 |  |
@@ -429,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0836-rectangle-overlap) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
