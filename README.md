@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0503-next-greater-element-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0300-longest-increasing-subsequence](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0826-most-profit-assigning-work](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0826-most-profit-assigning-work) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
@@ -438,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0509-fibonacci-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
