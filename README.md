@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0692-top-k-frequent-words) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0746-min-cost-climbing-stairs) |
 | [0826-most-profit-assigning-work](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0826-most-profit-assigning-work) |
 | [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1387-sort-integers-by-the-power-value) |
