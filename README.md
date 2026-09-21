@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1002-find-common-characters) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2404-most-frequent-even-element](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2404-most-frequent-even-element) |
 | [2405-optimal-partition-of-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2405-optimal-partition-of-string) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1927-sum-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1927-sum-game) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2405-optimal-partition-of-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2405-optimal-partition-of-string) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2645-minimum-additions-to-make-valid-string) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2404-most-frequent-even-element](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2404-most-frequent-even-element) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3238-find-the-number-of-winning-players](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3238-find-the-number-of-winning-players) |
