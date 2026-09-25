@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1419-minimum-number-of-frogs-croaking) |
+| [1556-thousand-separator](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1556-thousand-separator) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1927-sum-game](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1927-sum-game) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
