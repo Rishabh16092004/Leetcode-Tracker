@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0020-valid-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0299-bulls-and-cows) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0318-maximum-product-of-word-lengths) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/1717-maximum-score-from-removing-substrings) |
@@ -449,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0300-longest-increasing-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
