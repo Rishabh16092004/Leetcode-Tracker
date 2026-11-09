@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2404-most-frequent-even-element) |
 | [2405-optimal-partition-of-string](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2405-optimal-partition-of-string) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0318-maximum-product-of-word-lengths) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2401-longest-nice-subarray](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2401-longest-nice-subarray) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Sliding Window
 |  |
 | ------- |
