@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3238-find-the-number-of-winning-players](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3238-find-the-number-of-winning-players) |
 | [3386-button-with-longest-push-time](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3386-button-with-longest-push-time) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rishabh16092004/Leetcode-Tracker/tree/master/3471-find-the-largest-almost-missing-integer) |
